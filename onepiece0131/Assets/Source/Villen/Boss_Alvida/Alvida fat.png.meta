@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 533f4377930c94f4abd581f2e9594ae4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5548487164469678626
+    second: Alvida fat_0
+  - first:
+      213: 5308148602112211537
+    second: Alvida fat_1
+  - first:
+      213: 1438801450934700197
+    second: Alvida fat_2
+  - first:
+      213: -9144909026814146998
+    second: Alvida fat_4
+  - first:
+      213: 1045786005044382130
+    second: Alvida fat_5
+  - first:
+      213: 3949773480901215243
+    second: Alvida fat_6
+  - first:
+      213: 2394197558922123099
+    second: Alvida fat_8
+  - first:
+      213: -4661638682314443469
+    second: Alvida fat_9
+  - first:
+      213: -8293594624121167182
+    second: Alvida fat_10
+  - first:
+      213: -8920505427616631486
+    second: Alvida fat_12
+  - first:
+      213: -7737462864203836135
+    second: Alvida fat_13
+  - first:
+      213: -3566756413877872214
+    second: Alvida fat_14
+  - first:
+      213: 5345718348937881505
+    second: Alvida fat_16
+  - first:
+      213: -8420237454587220512
+    second: Alvida fat_17
+  - first:
+      213: 8586510538232657535
+    second: Alvida fat_18
+  - first:
+      213: 1138900859577798449
+    second: Alvida fat_20
+  - first:
+      213: 3384785620069412206
+    second: Alvida fat_21
+  - first:
+      213: 7676156300820765811
+    second: Alvida fat_22
+  - first:
+      213: -1871314522079450837
+    second: Alvida fat_23
+  - first:
+      213: 1788637320780738346
+    second: Alvida fat_24
+  - first:
+      213: -6490448680829928587
+    second: Alvida fat_25
+  - first:
+      213: 2355310053498265922
+    second: Alvida fat_26
+  - first:
+      213: -4544077052045457503
+    second: Alvida fat_27
+  - first:
+      213: 2951762446775647677
+    second: Alvida fat_28
+  - first:
+      213: 2479166218864015387
+    second: Alvida fat_29
+  - first:
+      213: 2553408377146982128
+    second: Alvida fat_30
+  - first:
+      213: 8719765485640551351
+    second: Alvida fat_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alvida fat_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 635
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd68f03250dff2b0800000000000000
+      internalID: -5548487164469678626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 635
+        width: 54
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a72e3a7055aa940800000000000000
+      internalID: 5308148602112211537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 635
+        width: 39
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88749eb46a7f310800000000000000
+      internalID: 1438801450934700197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 550
+        width: 79
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ca7121b1c61180800000000000000
+      internalID: -9144909026814146998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 556
+        width: 74
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9cebda4d0638e00800000000000000
+      internalID: 1045786005044382130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 557
+        width: 75
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b040068dd0a60d630800000000000000
+      internalID: 3949773480901215243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 471
+        width: 83
+        height: 58
+      alignment: 9
+      pivot: {x: 0.22661793, y: 0.0062108533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5719adaef5e93120800000000000000
+      internalID: 2394197558922123099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 76
+        height: 62
+      alignment: 9
+      pivot: {x: 0.23935097, y: 0.000000984438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3357d6d11588e4fb0800000000000000
+      internalID: -4661638682314443469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 475
+        width: 88
+        height: 57
+      alignment: 9
+      pivot: {x: 0.2094085, y: 0.0000010707922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b22b2671ab37ec80800000000000000
+      internalID: -8293594624121167182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 405
+        width: 83
+        height: 54
+      alignment: 9
+      pivot: {x: 0.19190289, y: -0.013338442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24577f1939ff33480800000000000000
+      internalID: -8920505427616631486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 405
+        width: 75
+        height: 50
+      alignment: 9
+      pivot: {x: 0.28389832, y: -0.0072021484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9159a5415820f9490800000000000000
+      internalID: -7737462864203836135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 405
+        width: 75
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2742938, y: -0.015005748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9967660f5508ec0800000000000000
+      internalID: -3566756413877872214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 323
+        width: 74
+        height: 50
+      alignment: 9
+      pivot: {x: 0.27611056, y: -0.007177236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7eab9f38ecf2a40800000000000000
+      internalID: 5345718348937881505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 323
+        width: 81
+        height: 62
+      alignment: 9
+      pivot: {x: 0.37994346, y: 0.0062191873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda3eab5ae452b80800000000000000
+      internalID: -8420237454587220512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 323
+        width: 59
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4145363, y: 0.0023976376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76718b57d9692770800000000000000
+      internalID: 8586510538232657535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 250
+        width: 56
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.00041001843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f85813c403ecf00800000000000000
+      internalID: 1138900859577798449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 250
+        width: 56
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.0040288204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d661d869c29fe20800000000000000
+      internalID: 3384785620069412206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 250
+        width: 57
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5063193, y: -0.0018755803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5cce4c7f278a60800000000000000
+      internalID: 7676156300820765811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 175
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49999985, y: -0.000010329027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ac685b51c706e0800000000000000
+      internalID: -1871314522079450837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_24
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 55
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50868976, y: -0.00035524368}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f6429aa2482d810800000000000000
+      internalID: 1788637320780738346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 73
+        width: 54
+        height: 90
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bba3a005b4de5a0800000000000000
+      internalID: -6490448680829928587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 82
+        width: 66
+        height: 71
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241aba2c30ebfa020800000000000000
+      internalID: 2355310053498265922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 88
+        width: 81
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a783d82ff130f0c0800000000000000
+      internalID: -4544077052045457503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 86
+        height: 28
+      alignment: 9
+      pivot: {x: 1.0014815, y: 0.026073966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd76656e44c6f820800000000000000
+      internalID: 2951762446775647677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 19
+        width: 101
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b9867a84c76220800000000000000
+      internalID: 2479166218864015387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 17
+        width: 86
+        height: 33
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe3a56f3678f6320800000000000000
+      internalID: 2553408377146982128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alvida fat_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 250
+        width: 56
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.0040288204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb01588284d20970800000000000000
+      internalID: 8719765485640551351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

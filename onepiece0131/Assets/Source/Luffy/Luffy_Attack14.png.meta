@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: beb605b399021374585d782778936229
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6934643019085148021
+    second: Luffy_Attack14_0
+  - first:
+      213: -3084966449622148751
+    second: Luffy_Attack14_1
+  - first:
+      213: -5466390339448118822
+    second: Luffy_Attack14_2
+  - first:
+      213: 1748923193207082884
+    second: Luffy_Attack14_3
+  - first:
+      213: -7575601431560659416
+    second: Luffy_Attack14_4
+  - first:
+      213: -4991918180399432702
+    second: Luffy_Attack14_5
+  - first:
+      213: 5480362622420630906
+    second: Luffy_Attack14_6
+  - first:
+      213: -6268386558931212694
+    second: Luffy_Attack14_7
+  - first:
+      213: -1429156445214701116
+    second: Luffy_Attack14_8
+  - first:
+      213: -5430266291662275936
+    second: Luffy_Attack14_9
+  - first:
+      213: -1488962082283275878
+    second: Luffy_Attack14_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Luffy_Attack14_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 66
+        height: 88
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.41392392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80994b5ae233cf90800000000000000
+      internalID: -6934643019085148021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 65
+        height: 88
+      alignment: 9
+      pivot: {x: 0.52330685, y: 0.40422803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1791642eb5fff25d0800000000000000
+      internalID: -3084966449622148751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 0.48902228, y: 0.44511077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1619dc2fa7324b0800000000000000
+      internalID: -5466390339448118822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 7
+        width: 66
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42610043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fcc86c06c654810800000000000000
+      internalID: 1748923193207082884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 7
+        width: 146
+        height: 84
+      alignment: 9
+      pivot: {x: 0.7801601, y: 0.409825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed2ef92ae0ed690800000000000000
+      internalID: -7575601431560659416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 7
+        width: 187
+        height: 84
+      alignment: 9
+      pivot: {x: 0.8402537, y: 0.4188425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c3a7dfcd429bab0800000000000000
+      internalID: -4991918180399432702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 7
+        width: 174
+        height: 85
+      alignment: 9
+      pivot: {x: 0.77860934, y: 0.41088593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db5b5d4c82e0c40800000000000000
+      internalID: 5480362622420630906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 6
+        width: 157
+        height: 84
+      alignment: 9
+      pivot: {x: 0.17674887, y: 0.42785993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a666210d2a73209a0800000000000000
+      internalID: -6268386558931212694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_8
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 6
+        width: 83
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9848af8cd9a2ce0800000000000000
+      internalID: -1429156445214701116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_9
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 7
+        width: 73
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa31b91491d3a4b0800000000000000
+      internalID: -5430266291662275936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luffy_Attack14_10
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7
+        width: 92
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99ba7100e4265be0800000000000000
+      internalID: -1488962082283275878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,648 @@
+fileFormatVersion: 2
+guid: 0fcd975999a62f04381639bf95389f05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1767959041580751108
+    second: Cannon_editor_0
+  - first:
+      213: -4668461486264046061
+    second: Cannon_editor_1
+  - first:
+      213: 8872686135533565512
+    second: Cannon_editor_2
+  - first:
+      213: 6554459802411715259
+    second: Cannon_editor_3
+  - first:
+      213: 1788062317796264636
+    second: Cannon_editor_4
+  - first:
+      213: 6954121755119600748
+    second: Cannon_editor_5
+  - first:
+      213: 4534928567637128787
+    second: Cannon_editor_6
+  - first:
+      213: -2218996568181286023
+    second: Cannon_editor_7
+  - first:
+      213: -1637304930901642507
+    second: Cannon_editor_8
+  - first:
+      213: -8819344585248814221
+    second: Cannon_editor_9
+  - first:
+      213: -664554793851961373
+    second: Cannon_editor_10
+  - first:
+      213: 101096195211880741
+    second: Cannon_editor_11
+  - first:
+      213: -8393758788292381091
+    second: Cannon_editor_12
+  - first:
+      213: 5251479392311805851
+    second: Cannon_editor_13
+  - first:
+      213: 3134206043594368960
+    second: Cannon_editor_14
+  - first:
+      213: 6197233781027347616
+    second: Cannon_editor_15
+  - first:
+      213: -2239304027666837663
+    second: Cannon_editor_16
+  - first:
+      213: 8845461705704990529
+    second: Cannon_editor_17
+  - first:
+      213: 8295452153346931715
+    second: Cannon_editor_18
+  - first:
+      213: 3164382273022287658
+    second: Cannon_editor_19
+  - first:
+      213: -982101810932565725
+    second: Cannon_editor_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cannon_editor_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 216
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6715833, y: 0.44852468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a3256e92f677e0800000000000000
+      internalID: -1767959041580751108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 217
+        width: 39
+        height: 41
+      alignment: 9
+      pivot: {x: 0.68478197, y: 0.3846521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ea3a7430b463fb0800000000000000
+      internalID: -4668461486264046061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 217
+        width: 35
+        height: 46
+      alignment: 9
+      pivot: {x: 0.64799106, y: 0.34333703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f200e70d122b70800000000000000
+      internalID: 8872686135533565512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 217
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac359967e16fa50800000000000000
+      internalID: 6554459802411715259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 164
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6126016, y: 0.46025804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba0288543970d810800000000000000
+      internalID: 1788062317796264636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 163
+        width: 40
+        height: 32
+      alignment: 9
+      pivot: {x: 0.55630076, y: 0.48592472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6448ba44e0028060800000000000000
+      internalID: 6954121755119600748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 45
+        height: 35
+      alignment: 9
+      pivot: {x: 0.75523037, y: 0.43565586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35638c3518d4fee30800000000000000
+      internalID: 4534928567637128787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 164
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.67694527, y: 0.42493227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5eb3c06a8431e0800000000000000
+      internalID: -2218996568181286023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 164
+        width: 42
+        height: 36
+      alignment: 9
+      pivot: {x: 0.67158365, y: 0.42493227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bc9417df1749e0800000000000000
+      internalID: -1637304930901642507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 104
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6204573, y: 0.46025804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bca7c93d46b9580800000000000000
+      internalID: -8819344585248814221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 104
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.61260164, y: 0.4111039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efbbaa9fe607c6f0800000000000000
+      internalID: -664554793851961373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 104
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5563011, y: 0.4124209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296fb3347a276100800000000000000
+      internalID: 101096195211880741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 104
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.71447897, y: 0.33621597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56f485aad0638b80800000000000000
+      internalID: -8393758788292381091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 104
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6745323, y: 0.36817354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97870c0fa001e840800000000000000
+      internalID: 5251479392311805851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 44
+        width: 42
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6179635, y: 0.45363414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c723597acfee7b20800000000000000
+      internalID: 3134206043594368960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 34
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5794837, y: 0.37366644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac9f2c1a4ff00650800000000000000
+      internalID: 6197233781027347616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 43
+        width: 33
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49317607, y: 0.39925113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f01d6e9d46ce0e0800000000000000
+      internalID: -2239304027666837663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 44
+        width: 37
+        height: 47
+      alignment: 9
+      pivot: {x: 0.68868357, y: 0.32271242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147edda5e8461ca70800000000000000
+      internalID: 8845461705704990529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 44
+        width: 35
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6737287, y: 0.33985528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3e7348cd5f1370800000000000000
+      internalID: 8295452153346931715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 104
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.66327286, y: 0.38465175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f590569e42aeb20800000000000000
+      internalID: 3164382273022287658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_editor_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 44
+        width: 34
+        height: 45
+      alignment: 9
+      pivot: {x: 0.66559017, y: 0.32984626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b81a3b9fde52f0800000000000000
+      internalID: -982101810932565725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

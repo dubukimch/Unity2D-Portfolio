@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8526209079207482635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8526209079207482629}
+  - component: {fileID: 8526209079207482628}
+  m_Layer: 0
+  m_Name: ItemDataBase
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8526209079207482629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8526209079207482635}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1414.7418, y: 944.5807, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8526209079207482628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8526209079207482635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5403935afacc20b42b8634692cc7d560, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemDB:
+  - itemType: 1
+    itemName: Food
+    itemImage: {fileID: -3354978827358118140, guid: cc1858e1fffb372449b9ff798361f064,
+      type: 3}
+    efts:
+    - {fileID: 11400000, guid: f34d877120c11f3438d822ec53d27803, type: 2}
+  - itemType: 1
+    itemName: Skill
+    itemImage: {fileID: 2608702149158227675, guid: cc1858e1fffb372449b9ff798361f064,
+      type: 3}
+    efts:
+    - {fileID: 11400000, guid: f4973495c5c482942a7e0d936c928b5d, type: 2}
+  - itemType: 1
+    itemName: Character
+    itemImage: {fileID: -1539550843641909695, guid: cc1858e1fffb372449b9ff798361f064,
+      type: 3}
+    efts:
+    - {fileID: 11400000, guid: f4973495c5c482942a7e0d936c928b5d, type: 2}
+  FieldItemPrefab: {fileID: 4049821934033538100, guid: eccc7bd8c1ad391459ba10f06841f41b,
+    type: 3}
+  pos:
+  - {x: 2, y: 2}
+  - {x: 4, y: 2}
+  - {x: 6, y: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Game_Opening.unity
+    guid: 971a05a18db913c4b93cde3f9fd451d6
+  - enabled: 1
+    path: Assets/Scenes/Game_Logo.unity
+    guid: e6ec8a18366df204696d24718e296d38
+  - enabled: 1
+    path: Assets/Scenes/Game_Option.unity
+    guid: 4d2fecf061fb04e489a4ab0d19c766b3
+  - enabled: 1
+    path: Assets/Scenes/Alvide's_Ship_1.unity
+    guid: c41a85608d0bb9e439e5c625291fb104
+  - enabled: 1
+    path: Assets/Scenes/Alvida's_Ship_2.unity
+    guid: f063eac457a3d6b4293025ec9eb91202
+  - enabled: 1
+    path: Assets/Scenes/Alvida's_Ship_3.unity
+    guid: 0e5e721fca66af44392e05b53f208c32
+  m_configObjects: {}

@@ -1,0 +1,744 @@
+fileFormatVersion: 2
+guid: b1e61c2e665fa6147acb3e5eb35b5e76
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4194048875379306243
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_0
+  - first:
+      213: -2564276098705316518
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_1
+  - first:
+      213: -4367171228000352517
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_2
+  - first:
+      213: 5765217389724477218
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_3
+  - first:
+      213: 1696358403711330417
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_4
+  - first:
+      213: -4175147585720377666
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_5
+  - first:
+      213: -719463777718249984
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_6
+  - first:
+      213: 167461925267300389
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_7
+  - first:
+      213: 3187102553810589340
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_8
+  - first:
+      213: -1299350451751706525
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_9
+  - first:
+      213: -2422677852672440354
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_10
+  - first:
+      213: 7163930981425997083
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_11
+  - first:
+      213: -4024052122978940826
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_12
+  - first:
+      213: 8936664318670540297
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_13
+  - first:
+      213: -1826022270555112941
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_14
+  - first:
+      213: 2993784023538453225
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_15
+  - first:
+      213: -2310492357990576484
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_16
+  - first:
+      213: 7306905207232151362
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_17
+  - first:
+      213: -1743628111638845942
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_18
+  - first:
+      213: 3995836570791865734
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_19
+  - first:
+      213: 6694538399566321661
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_20
+  - first:
+      213: -6330739751403584705
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_21
+  - first:
+      213: 2433793388351825535
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_22
+  - first:
+      213: 8398548328789104011
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_23
+  - first:
+      213: 568134690927109592
+    second: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1646.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0d364d4cebbc5c0800000000000000
+      internalID: -4194048875379306243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1646.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5525ae697cd96cd0800000000000000
+      internalID: -2564276098705316518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_2
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1646.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf68bb908e0b463c0800000000000000
+      internalID: -4367171228000352517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_3
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1646.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ae67abaa220050800000000000000
+      internalID: 5765217389724477218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_4
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1646.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17866f00bfcaa8710800000000000000
+      internalID: 1696358403711330417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1235.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe9e444465ee06c0800000000000000
+      internalID: -4175147585720377666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1235.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d75c8183f306f0800000000000000
+      internalID: -719463777718249984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_7
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1235.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e5f8dbb1f25200800000000000000
+      internalID: 167461925267300389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_8
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1235.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96de9ef2ecda3c20800000000000000
+      internalID: 3187102553810589340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_9
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1235.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a89cf5a7c7fde0800000000000000
+      internalID: -1299350451751706525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7c042345be06ed0800000000000000
+      internalID: -2422677852672440354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 824.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ef4f75456b6360800000000000000
+      internalID: 7163930981425997083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_12
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 824.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6680f2c1ae1b728c0800000000000000
+      internalID: -4024052122978940826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_13
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 824.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e044f69d8650c70800000000000000
+      internalID: 8936664318670540297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_14
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 824.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a3c9b6b6aa8a6e0800000000000000
+      internalID: -1826022270555112941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eacf3925be0c8920800000000000000
+      internalID: 2993784023538453225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 413.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e87b1217b7fefd0800000000000000
+      internalID: -2310492357990576484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_17
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 413.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f36848297576560800000000000000
+      internalID: 7306905207232151362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_18
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 413.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a16978736dc7e0800000000000000
+      internalID: -1743628111638845942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_19
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 413.4
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6096b030147730800000000000000
+      internalID: 3995836570791865734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.399994
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7dc598437c7ec50800000000000000
+      internalID: 6694538399566321661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2.399994
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330520ecb1b428a0800000000000000
+      internalID: -6330739751403584705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_22
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2
+        width: 486
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a761213296c120800000000000000
+      internalID: 2433793388351825535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_23
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2.399994
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85dc662533ad8470800000000000000
+      internalID: 8398548328789104011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Ecco The Tides of Time - Sea of Green Background_24
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2.399994
+        width: 486.4
+        height: 411.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d56945cd7b62e700800000000000000
+      internalID: 568134690927109592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
